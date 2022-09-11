@@ -37,4 +37,10 @@ Lot 2 had a sample mean of 1,500.2 and a p-value of 0.61.  With the p-value so m
 #### Lot 3 T-Test
 ![one_test_t_L3](https://user-images.githubusercontent.com/104606589/189551629-69575736-51c3-4c59-bfb2-cbfc9f33e186.png)
 
+Lot 3 had a sample mean of 1,496.14 and a p-value of 0.04.  This p-value is below the assumed statistical significance of 0.05.  We would be inclined to reject the null hypothesis and deam this sample to be statistically different then the greater population of coils. 
+
+### Study Design: MechaCar vs Competition
+
+
+
 
