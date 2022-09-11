@@ -41,6 +41,14 @@ Lot 3 had a sample mean of 1,496.14 and a p-value of 0.04.  This p-value is belo
 
 ### Study Design: MechaCar vs Competition
 
+A lot of people will look at the total cost of the purchase of the car and not take into account what the total cost of the cosumer will be for the life of the vehicle.  The second value has a lot more to do with what the cost to maintain the vehicle will be compared to cheaper or more expensive vehicles.
 
+To test this we could compare the average maintenance cost for MechaCar vs its closest 2 competitors taking into account how differenct metrics (horsepower, weight, mpg, clearance, and AWD).  The closest 2 competitors will be determined by total units (cars) sold in a fiscal year.
+
+H0(Null Hypothesis): Based off the performance metrics of horsepower, weight, mpg, clearance, and AWD the average cost of maintenance for a car from MechaCars is no different then the cost of its 2 closests competitors.
+
+Ha(Alternative Hypothesis): Based off the performance metrics of horsepower, weight, mpg, clearance, and AWD the average cost of maintenance for a car from MechaCars is different then the cost of its 2 closests competitors.
+
+To test this we would need to collect repair records as well as build specs for vehicles from the two competing car companies.  This data may be available to the public through carfax or other consumer protection/facing companies.  We could conduct a linear regression on each companies vehicles to build a prediction of total maintenance cost of vehicle based the combination of performance metrics. 
 
 
