@@ -20,4 +20,8 @@ Statistical analysis of MechaCar
 
 -  When looking at the total population the minimum variance of 100 PSI has been met.  When looking deeper into the sample it looks like Lot 3 does not meet the minimum requirement and there would be justification to research what happened with this specific lot. The extreme variance in lot 3 is hidden when only looking at the population as a whole. 
 ### T-Test on Suspension Coils
+![one_test_t_total](https://user-images.githubusercontent.com/104606589/189551623-1fcd921f-031a-47df-a1cd-2f64788b8dd0.png)
+![one_test_t_L1](https://user-images.githubusercontent.com/104606589/189551626-cfce176f-74bb-47a9-b838-5462ef0e9359.png)
+![one_test_t_L2](https://user-images.githubusercontent.com/104606589/189551628-35cccd7e-77d9-4c52-908f-bd59045ab0df.png)
+![one_test_t_L3](https://user-images.githubusercontent.com/104606589/189551629-69575736-51c3-4c59-bfb2-cbfc9f33e186.png)
 
